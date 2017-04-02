@@ -1,0 +1,466 @@
+my-tweets 
+
+-----Your last 20 tweets are being displayed-----
+
+Test Data 25
+Test Data 24
+Test Data 23
+Test Data 22
+Test Data 21
+Test Data 20
+Test Data 19
+Test Data 18
+Test Data 17
+Test Data 16
+Test Data 15
+Test Data 14
+Test Data 13
+Test Data 12
+Test Data 11
+Test Data 10
+Test Data 9
+Test Data 8
+Test Data 7
+Test Data 6
+
+
+
+movie-this "american psycho"
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : American Psycho
+
+Year the movie came out : 2000
+
+IMDB Rating of the movie : 7.6/10
+
+Country where the movie was produced : USA
+
+Language of the movie : English, Spanish, Cantonese
+
+Plot of the movie : A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.
+
+Actors in the movie : Christian Bale, Justin Theroux, Josh Lucas, Bill Sage
+
+Rotten Tomatoes Rating : 67%
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/american_psycho/
+
+
+spotify-this-song heal the world
+
+
+----Match Number---- : 1
+
+The Album Name is : Dangerous
+The Artists Name is : Michael Jackson
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/12261e2c16b7eb17508fb25a411691380893151d?cid=null
+
+
+----Match Number---- : 2
+
+The Album Name is : HIStory - PAST, PRESENT AND FUTURE - Book I
+The Artists Name is : Michael Jackson
+The Track name is : Heal The World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/8ceeb1c4757ef7e6bc8cb406f96a80d87796322f?cid=null
+
+
+----Match Number---- : 3
+
+The Album Name is : HIStory - PAST, PRESENT AND FUTURE - BOOK I
+The Artists Name is : Michael Jackson
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/8ceeb1c4757ef7e6bc8cb406f96a80d87796322f?cid=null
+
+
+----Match Number---- : 4
+
+The Album Name is : The Essential Michael Jackson
+The Artists Name is : Michael Jackson
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/e38fd888eaadbd87790c68f29649129d0ff876c6?cid=null
+
+
+----Match Number---- : 5
+
+The Album Name is : Lullaby Renditions of Michael Jackson
+The Artists Name is : Rockabye Baby!
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/42ff18b57170dd2f425fc53d220903adb4a99353?cid=null
+
+
+----Match Number---- : 6
+
+The Album Name is : Stars 4 Ever (Zhala & Heal The World Remix)
+The Artists Name is : Robyn
+The Artists Name is : Zhala & Heal The World
+The Track name is : Stars 4 Ever - Zhala & Heal The World Remix
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/76e4934ba884e489af7499897e8fb1f9bacfe5c5?cid=null
+
+
+----Match Number---- : 7
+
+The Album Name is : Acoustic Guitar Hits: Selected Pop Pearls
+The Artists Name is : Dieter Max
+The Track name is : Heal the World (Arr. for Classical Guitar)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/4c4e473195017d42b26b91748178041d4f5e26db?cid=null
+
+
+----Match Number---- : 8
+
+The Album Name is : COW / Chill Out, World!
+The Artists Name is : The Orb
+The Track name is : Sex (Panoramic Sex Heal)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/20d8419e1434551cc9ce3a2eadc2c59ba80698ab?cid=null
+
+
+----Match Number---- : 9
+
+The Album Name is : Michael Jackson Greatest Hits HIStory Volume I
+The Artists Name is : Michael Jackson
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/b40c10f639e909005c3c121a139e9f966c77a9d6?cid=null
+
+
+----Match Number---- : 10
+
+The Album Name is : Heal the World
+The Artists Name is : Maatibaani
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/7f22cc64228d7f56a65a6350c275f2ccc06d2895?cid=null
+
+
+----Match Number---- : 11
+
+The Album Name is : Guided Meditations
+The Artists Name is : Brad Austen
+The Track name is : Heal Yourself, Heal the World Meditation
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d28047e5a04d342dcc0a72dd6bc78a4a112adecf?cid=null
+
+
+----Match Number---- : 12
+
+The Album Name is : VSQ Performs the Hits of Michael Jackson
+The Artists Name is : Vitamin String Quartet
+The Track name is : Heal The World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/3d936841dfd47a8399473ff23e605c3c119419ce?cid=null
+
+
+----Match Number---- : 13
+
+The Album Name is : Melodías Romanticas En Zampoña
+The Artists Name is : Orquesta San Antonio
+The Track name is : Heal The World (Salvar El Mundo)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/543044dee3fb4040b43492ca7d64cb9413874a6b?cid=null
+
+
+----Match Number---- : 14
+
+The Album Name is : Oldies in Jazz
+The Artists Name is : Oldies In Jazz
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/304c843d39dd2668474beaa82a60338155360038?cid=null
+
+
+----Match Number---- : 15
+
+The Album Name is : Greatest Piano Hits, Vol. 1 (Best Pop Songs On Piano)
+The Artists Name is : F & G
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/0a3b6283f5f4098a30e843eebc8bd3ac1c30d08f?cid=null
+
+
+----Match Number---- : 16
+
+The Album Name is : Music Unites - Reggae Around the World, Vol. 5
+The Artists Name is : Pato Banton And The Now Generation
+The Track name is : Heal This World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/daf027fe6a6ceafcd0e64bbf439bda8edf1938aa?cid=null
+
+
+----Match Number---- : 17
+
+The Album Name is : Beautiful World
+The Artists Name is : Connie Talbot
+The Track name is : Heal The World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/bab1b0ee93c97bce30a304b0576aba12534cede5?cid=null
+
+
+----Match Number---- : 18
+
+The Album Name is : Michael's in Bossa
+The Artists Name is : Alana Marie
+The Track name is : Heal the World
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/f74bf839d51995b101b96facc1e4f7fe3989a349?cid=null
+
+
+----Match Number---- : 19
+
+The Album Name is : Songs of Healing: Stress Relief
+The Artists Name is : Baby Mozart
+The Track name is : Heal the World (And Me)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/9fd862a606acfcf382a5d80a84041bbb589bff02?cid=null
+
+
+----Match Number---- : 20
+
+The Album Name is : Roupa Nova 30 Anos (Ao Vivo)
+The Artists Name is : Roupa Nova
+The Artists Name is : Padre Fábio De Melo
+The Track name is : A Paz (Heal The World) - Ao Vivo
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/7480ae7fada1235b76bae20aabd5784f9d8bebc1?cid=null
+
+
+spotify-this-song The Sign
+
+
+----Match Number---- : 1
+
+The Album Name is : Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : DJ Mustard
+The Artists Name is : Wiz Khalifa
+The Artists Name is : The Weeknd
+The Track name is : Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+
+----Match Number---- : 2
+
+The Album Name is : Late Nights: The Album
+The Artists Name is : Jeremih
+The Artists Name is : Ty Dolla $ign
+The Track name is : Impatient
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+
+
+----Match Number---- : 3
+
+The Album Name is : The Sign (US Album) [Remastered]
+The Artists Name is : Ace of Base
+The Track name is : The Sign
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+
+
+----Match Number---- : 4
+
+The Album Name is : Suicide Squad: The Album
+The Artists Name is : Lil Wayne
+The Artists Name is : Wiz Khalifa
+The Artists Name is : Imagine Dragons
+The Artists Name is : X Ambassadors
+The Artists Name is : Logic
+The Artists Name is : Ty Dolla $ign
+The Track name is : Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+
+
+----Match Number---- : 5
+
+The Album Name is : The Divine Feminine
+The Artists Name is : Mac Miller
+The Artists Name is : Ty Dolla $ign
+The Track name is : Cinderella (feat. Ty Dolla $ign)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+
+
+----Match Number---- : 6
+
+The Album Name is : Coloring Book
+The Artists Name is : Chance The Rapper
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : Anderson .Paak
+The Artists Name is : BJ The Chicago Kid
+The Artists Name is : Raury
+The Track name is : Blessings
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+
+
+----Match Number---- : 7
+
+The Album Name is : Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+The Artists Name is : Juicy J
+The Artists Name is : Wiz Khalifa
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : Madsonik
+The Artists Name is : Kill The Noise
+The Track name is : Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+
+
+----Match Number---- : 8
+
+The Album Name is : Spotify Session
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : Wiz Khalifa
+The Track name is : Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+
+
+----Match Number---- : 9
+
+The Album Name is : GTTM: Goin Thru the Motions
+The Artists Name is : PnB Rock
+The Artists Name is : Ty Dolla $ign
+The Track name is : Hanging Up My Jersey
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+
+
+----Match Number---- : 10
+
+The Album Name is : Blasé (feat. Future & Rae Sremmurd) [Remixes]
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : Future
+The Artists Name is : Rae Sremmurd
+The Artists Name is : Louis The Child
+The Track name is : Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+
+
+----Match Number---- : 11
+
+The Album Name is : Peace Is The Mission (Extended)
+The Artists Name is : Major Lazer
+The Artists Name is : MOTi
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : WizKid
+The Artists Name is : Kranium
+The Track name is : Boom
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+
+
+----Match Number---- : 12
+
+The Album Name is : Spotify Session
+The Artists Name is : Ty Dolla $ign
+The Track name is : Saved - Live from The Village, Los Angeles
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+
+
+----Match Number---- : 13
+
+The Album Name is : A Rush Of Blood To The Head
+The Artists Name is : Coldplay
+The Track name is : Warning Sign
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+
+
+----Match Number---- : 14
+
+The Album Name is : Fan of A Fan The Album (Deluxe Version)
+The Artists Name is : Chris Brown
+The Artists Name is : Tyga
+The Artists Name is : Ty Dolla $ign
+The Track name is : Nothin' Like Me
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+
+
+----Match Number---- : 15
+
+The Album Name is : Greatest Hits
+The Artists Name is : Ace of Base
+The Track name is : The Sign
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+
+
+----Match Number---- : 16
+
+The Album Name is : In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+The Artists Name is : The Americanos
+The Artists Name is : Nicky Jam
+The Artists Name is : Lil Yachty
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : French Montana
+The Track name is : In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+
+
+----Match Number---- : 17
+
+The Album Name is : Sign 'O' The Times
+The Artists Name is : Prince
+The Track name is : U Got The Look
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/99012a75bc37d984b4a5ebb3d7ce55371356187f?cid=null
+
+
+----Match Number---- : 18
+
+The Album Name is : King Of The Blues Guitar
+The Artists Name is : Albert King
+The Track name is : Born Under A Bad Sign
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+
+
+----Match Number---- : 19
+
+The Album Name is : Sign 'O' The Times
+The Artists Name is : Prince
+The Track name is : Sign 'O' The Times
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/22ae04b86d328e39109a91524c1cc35bc81ff0f9?cid=null
+
+
+----Match Number---- : 20
+
+The Album Name is : Free TC
+The Artists Name is : Ty Dolla $ign
+The Track name is : Horses In The Stable
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+
+
+movie-this the lion king
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : The Lion King
+
+Year the movie came out : 1994
+
+IMDB Rating of the movie : 8.5/10
+
+Country where the movie was produced : USA
+
+Language of the movie : English, Swahili, Xhosa, Zulu
+
+Plot of the movie : Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+
+Actors in the movie : Matthew Broderick, Jonathan Taylor Thomas, James Earl Jones, Jim Cummings
+
+Rotten Tomatoes Rating : 92%
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/the_lion_king/
+
+
+movie-this Mr Nobody
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : Mr. Nobody
+
+Year the movie came out : 2009
+
+IMDB Rating of the movie : 7.9/10
+
+Country where the movie was produced : Belgium, Germany, Canada, France
+
+Language of the movie : English, Mohawk
+
+Plot of the movie : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Actors in the movie : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Rotten Tomatoes Rating : 64%
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/mr-nobody/
+
+
