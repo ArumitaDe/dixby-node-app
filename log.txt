@@ -464,3 +464,884 @@ Rotten Tomatoes Rating : 64%
 Rotten Tomatoes URL : http://www.rottentomatoes.com/m/mr-nobody/
 
 
+movie-this the lion king
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : The Lion King
+
+Year the movie came out : 1994
+
+IMDB Rating of the movie : 8.5/10
+
+Country where the movie was produced : USA
+
+Language of the movie : English, Swahili, Xhosa, Zulu
+
+Plot of the movie : Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+
+Actors in the movie : Matthew Broderick, Jonathan Taylor Thomas, James Earl Jones, Jim Cummings
+
+Rotten Tomatoes Rating : 92%
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/the_lion_king/
+
+
+movie-this the terminator
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : The Terminator
+
+Year the movie came out : 1984
+
+IMDB Rating of the movie : 8.0/10
+
+Country where the movie was produced : UK, USA
+
+Language of the movie : English, Spanish
+
+Plot of the movie : A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.
+
+Actors in the movie : Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield
+
+Rotten Tomatoes Rating : 100%
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/terminator/
+
+
+spotify-this-song grenade
+
+
+----Match Number---- : 1
+
+The Album Name is : Doo-Wops & Hooligans
+The Artists Name is : Bruno Mars
+The Track name is : Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d6fc23418ef4a090922decfe6a47c7bc87c1d762?cid=null
+
+
+----Match Number---- : 2
+
+The Album Name is : The Grenade Sessions
+The Artists Name is : Bruno Mars
+The Track name is : Grenade - Acoustic
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/7696f9c2f51201a074003e07f25d05392d2d3e0a?cid=null
+
+
+----Match Number---- : 3
+
+The Album Name is : The Grenade Sessions
+The Artists Name is : Bruno Mars
+The Artists Name is : Passion Pit
+The Track name is : Grenade - Passion Pit Remix
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/b8645554001174966e99e2f20eb4abb74e06f45f?cid=null
+
+
+----Match Number---- : 4
+
+The Album Name is : The Grenade Sessions
+The Artists Name is : Bruno Mars
+The Track name is : Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d6fc23418ef4a090922decfe6a47c7bc87c1d762?cid=null
+
+
+----Match Number---- : 5
+
+The Album Name is : The Grenade Sessions
+The Artists Name is : Bruno Mars
+The Track name is : Catch A Grenade - The Hooligans Remix
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d829d5b9f2157735a6786ed4d3961f3bc7b52588?cid=null
+
+
+----Match Number---- : 6
+
+The Album Name is : Punk Goes Pop 5
+The Artists Name is : Memphis May Fire
+The Track name is : Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/3304e9ce342579bef53d98df82833030c4407587?cid=null
+
+
+----Match Number---- : 7
+
+The Album Name is : Punk Goes Pop, Vol. 5
+The Artists Name is : Memphis May Fire
+The Track name is : Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/b362c8912f4bde8144d5208f469332a382784502?cid=null
+
+
+----Match Number---- : 8
+
+The Album Name is : Take This To Your Grave
+The Artists Name is : Fall Out Boy
+The Track name is : Grenade Jumper
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d2d07e8dd25e629cf2636657dae46df6c52651dd?cid=null
+
+
+----Match Number---- : 9
+
+The Album Name is : Desperate Measures
+The Artists Name is : Hollywood Undead
+The Track name is : Dove And Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/b41f73d783483ca4621018ccc36b03abf5503fae?cid=null
+
+
+----Match Number---- : 10
+
+The Album Name is : Pineapple Grenade
+The Artists Name is : Ballyhoo!
+The Track name is : Beautiful Day
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/09700f05a81d47e5698aca266dcc578f6631e0f2?cid=null
+
+
+----Match Number---- : 11
+
+The Album Name is : Pineapple Grenade
+The Artists Name is : Ballyhoo!
+The Track name is : No Good
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d8262dac74a139c6cf5b99938d4ae08998650659?cid=null
+
+
+----Match Number---- : 12
+
+The Album Name is : Hand Grenade
+The Artists Name is : Jeffrey James
+The Track name is : Hand Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/b3de813df82cf5b65569a1da73aabc58eab829af?cid=null
+
+
+----Match Number---- : 13
+
+The Album Name is : Rock 'n Roll Suicide
+The Artists Name is : Grenade Fist
+The Track name is : Rock 'n Roll Suicide
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/318ecf6ed29fa5432d3d737eb8f251e46997ea98?cid=null
+
+
+----Match Number---- : 14
+
+The Album Name is : Best of the Year Medleys: 2007 - 2012
+The Artists Name is : Anthem Lights
+The Track name is : Best of 2011: Just the Way You Are / For the First Time / Someone Like You / Superbass / Grenade / Without You
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/33820783067c9ddac48abf52b51f83620b84bb19?cid=null
+
+
+----Match Number---- : 15
+
+The Album Name is : Pineapple Grenade
+The Artists Name is : Ballyhoo!
+The Track name is : She Wants to Destroy Me
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/6a3fa70db0bbb0a1e651fae2d6c8c9ded66a4a4e?cid=null
+
+
+----Match Number---- : 16
+
+The Album Name is : Pineapple Grenade
+The Artists Name is : Ballyhoo!
+The Track name is : Morning Sunlight
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/5116043e55ecbd25c4504eff341f246e8c532dd9?cid=null
+
+
+----Match Number---- : 17
+
+The Album Name is : New Acoustic Sessions, Vol. 1
+The Artists Name is : Boyce Avenue
+The Track name is : Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/ee9349cfddbf7e76171670715e19fa90a11aa2be?cid=null
+
+
+----Match Number---- : 18
+
+The Album Name is : Pineapple Grenade
+The Artists Name is : Ballyhoo!
+The Track name is : Lost at Sea
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/72aa16c4714b10f1ac765f11f2bc1848e951eef9?cid=null
+
+
+----Match Number---- : 19
+
+The Album Name is : Alive
+The Artists Name is : VanLadyLove
+The Track name is : Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/9123f98d9de52c51f243c03ebed9a79ee328f65d?cid=null
+
+
+----Match Number---- : 20
+
+The Album Name is : Swing The Vote!
+The Artists Name is : Scott Bradlee's Postmodern Jukebox
+The Artists Name is : Brielle Von Hugel
+The Track name is : Grenade
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/a1c702b64b4c1fec9b291a12da2a043f7076f6bf?cid=null
+
+
+spotify-this-song The Sign
+
+
+----Match Number---- : 1
+
+The Album Name is : Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : DJ Mustard
+The Artists Name is : Wiz Khalifa
+The Artists Name is : The Weeknd
+The Track name is : Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+
+----Match Number---- : 2
+
+The Album Name is : Late Nights: The Album
+The Artists Name is : Jeremih
+The Artists Name is : Ty Dolla $ign
+The Track name is : Impatient
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+
+
+----Match Number---- : 3
+
+The Album Name is : The Sign (US Album) [Remastered]
+The Artists Name is : Ace of Base
+The Track name is : The Sign
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+
+
+----Match Number---- : 4
+
+The Album Name is : Suicide Squad: The Album
+The Artists Name is : Lil Wayne
+The Artists Name is : Wiz Khalifa
+The Artists Name is : Imagine Dragons
+The Artists Name is : X Ambassadors
+The Artists Name is : Logic
+The Artists Name is : Ty Dolla $ign
+The Track name is : Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+
+
+----Match Number---- : 5
+
+The Album Name is : The Divine Feminine
+The Artists Name is : Mac Miller
+The Artists Name is : Ty Dolla $ign
+The Track name is : Cinderella (feat. Ty Dolla $ign)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+
+
+----Match Number---- : 6
+
+The Album Name is : Coloring Book
+The Artists Name is : Chance The Rapper
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : Anderson .Paak
+The Artists Name is : BJ The Chicago Kid
+The Artists Name is : Raury
+The Track name is : Blessings
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+
+
+----Match Number---- : 7
+
+The Album Name is : Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+The Artists Name is : Juicy J
+The Artists Name is : Wiz Khalifa
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : Madsonik
+The Artists Name is : Kill The Noise
+The Track name is : Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+
+
+----Match Number---- : 8
+
+The Album Name is : Spotify Session
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : Wiz Khalifa
+The Track name is : Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+
+
+----Match Number---- : 9
+
+The Album Name is : GTTM: Goin Thru the Motions
+The Artists Name is : PnB Rock
+The Artists Name is : Ty Dolla $ign
+The Track name is : Hanging Up My Jersey
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+
+
+----Match Number---- : 10
+
+The Album Name is : Blasé (feat. Future & Rae Sremmurd) [Remixes]
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : Future
+The Artists Name is : Rae Sremmurd
+The Artists Name is : Louis The Child
+The Track name is : Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+
+
+----Match Number---- : 11
+
+The Album Name is : Peace Is The Mission (Extended)
+The Artists Name is : Major Lazer
+The Artists Name is : MOTi
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : WizKid
+The Artists Name is : Kranium
+The Track name is : Boom
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+
+
+----Match Number---- : 12
+
+The Album Name is : Spotify Session
+The Artists Name is : Ty Dolla $ign
+The Track name is : Saved - Live from The Village, Los Angeles
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+
+
+----Match Number---- : 13
+
+The Album Name is : A Rush Of Blood To The Head
+The Artists Name is : Coldplay
+The Track name is : Warning Sign
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+
+
+----Match Number---- : 14
+
+The Album Name is : Fan of A Fan The Album (Deluxe Version)
+The Artists Name is : Chris Brown
+The Artists Name is : Tyga
+The Artists Name is : Ty Dolla $ign
+The Track name is : Nothin' Like Me
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+
+
+----Match Number---- : 15
+
+The Album Name is : Greatest Hits
+The Artists Name is : Ace of Base
+The Track name is : The Sign
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+
+
+----Match Number---- : 16
+
+The Album Name is : In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+The Artists Name is : The Americanos
+The Artists Name is : Nicky Jam
+The Artists Name is : Lil Yachty
+The Artists Name is : Ty Dolla $ign
+The Artists Name is : French Montana
+The Track name is : In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+
+
+----Match Number---- : 17
+
+The Album Name is : Sign 'O' The Times
+The Artists Name is : Prince
+The Track name is : U Got The Look
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/99012a75bc37d984b4a5ebb3d7ce55371356187f?cid=null
+
+
+----Match Number---- : 18
+
+The Album Name is : King Of The Blues Guitar
+The Artists Name is : Albert King
+The Track name is : Born Under A Bad Sign
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+
+
+----Match Number---- : 19
+
+The Album Name is : Sign 'O' The Times
+The Artists Name is : Prince
+The Track name is : Sign 'O' The Times
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/22ae04b86d328e39109a91524c1cc35bc81ff0f9?cid=null
+
+
+----Match Number---- : 20
+
+The Album Name is : Free TC
+The Artists Name is : Ty Dolla $ign
+The Track name is : Horses In The Stable
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+
+
+movie-this Mr Nobody
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : Mr. Nobody
+
+Year the movie came out : 2009
+
+IMDB Rating of the movie : 7.9/10
+
+Country where the movie was produced : Belgium, Germany, Canada, France
+
+Language of the movie : English, Mohawk
+
+Plot of the movie : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Actors in the movie : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Rotten Tomatoes Rating : 64%
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/mr-nobody/
+
+
+my-tweets 
+
+-----Your last 20 tweets are being displayed-----
+
+Test Data 25
+Test Data 24
+Test Data 23
+Test Data 22
+Test Data 21
+Test Data 20
+Test Data 19
+Test Data 18
+Test Data 17
+Test Data 16
+Test Data 15
+Test Data 14
+Test Data 13
+Test Data 12
+Test Data 11
+Test Data 10
+Test Data 9
+Test Data 8
+Test Data 7
+Test Data 6
+
+
+
+movie-this "american psycho"
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : American Psycho
+
+Year the movie came out : 2000
+
+IMDB Rating of the movie : 7.6/10
+
+Country where the movie was produced : USA
+
+Language of the movie : English, Spanish, Cantonese
+
+Plot of the movie : A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.
+
+Actors in the movie : Christian Bale, Justin Theroux, Josh Lucas, Bill Sage
+
+Rotten Tomatoes Rating : 67%
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/american_psycho/
+
+
+movie-this the lion king
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : The Lion King
+
+Year the movie came out : 1994
+
+IMDB Rating of the movie : 8.5/10
+
+Country where the movie was produced : USA
+
+Language of the movie : English, Swahili, Xhosa, Zulu
+
+Plot of the movie : Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+
+Actors in the movie : Matthew Broderick, Jonathan Taylor Thomas, James Earl Jones, Jim Cummings
+
+Rotten Tomatoes Rating : 92%
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/the_lion_king/
+
+
+movie-this the lion king
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : The Lion King
+
+Year the movie came out : 1994
+
+IMDB Rating of the movie : 8.5/10
+
+Country where the movie was produced : USA
+
+Language of the movie : English, Swahili, Xhosa, Zulu
+
+Plot of the movie : Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+
+Actors in the movie : Matthew Broderick, Jonathan Taylor Thomas, James Earl Jones, Jim Cummings
+
+Rotten Tomatoes Rating : 92%
+
+Rotten Tomatoes Rating : N/A
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/the_lion_king/
+
+
+movie-this the lion king
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : The Lion King
+
+Year the movie came out : 1994
+
+IMDB Rating of the movie : 8.5/10
+
+Country where the movie was produced : USA
+
+Language of the movie : English, Swahili, Xhosa, Zulu
+
+Plot of the movie : Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+
+Actors in the movie : Matthew Broderick, Jonathan Taylor Thomas, James Earl Jones, Jim Cummings
+
+Rotten Tomatoes Rating : 92%
+
+Rotten Tomatoes Rating : N/A
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/the_lion_king/
+
+
+movie-this the terminator
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : The Terminator
+
+Year the movie came out : 1984
+
+IMDB Rating of the movie : 8.0/10
+
+Country where the movie was produced : UK, USA
+
+Language of the movie : English, Spanish
+
+Plot of the movie : A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.
+
+Actors in the movie : Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield
+
+Rotten Tomatoes Rating : 100%
+
+Rotten Tomatoes Rating : N/A
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/terminator/
+
+
+movie-this terminator
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : Terminator
+
+Year the movie came out : 2001
+
+IMDB Rating of the movie : 4.8/10
+
+Country where the movie was produced : USA
+
+Language of the movie : English
+
+Plot of the movie : N/A
+
+Actors in the movie : Joshua Miller
+
+Rotten Tomatoes Rating : N/A
+
+Rotten Tomatoes URL : N/A
+
+
+movie-this the terminator
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : The Terminator
+
+Year the movie came out : 1984
+
+IMDB Rating of the movie : 8.0/10
+
+Country where the movie was produced : UK, USA
+
+Language of the movie : English, Spanish
+
+Plot of the movie : A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.
+
+Actors in the movie : Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield
+
+Rotten Tomatoes Rating : 100%
+
+Rotten Tomatoes Rating : N/A
+
+Rotten Tomatoes URL : http://www.rottentomatoes.com/m/terminator/
+
+
+movie-this lion
+
+
+
+--------Movie Information---------
+
+
+Title of the movie : Lion
+
+Year the movie came out : 2016
+
+IMDB Rating of the movie : 8.1/10
+
+Country where the movie was produced : Australia, USA, UK
+
+Language of the movie : English, Bengali, Hindi
+
+Plot of the movie : A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.
+
+Actors in the movie : Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+
+Rotten Tomatoes Rating : 69/100
+
+Rotten Tomatoes Rating : N/A
+
+Rotten Tomatoes URL : N/A
+
+
+spotify-this-song my heart will go on
+
+
+----Match Number---- : 1
+
+The Album Name is : Let's Talk About Love
+The Artists Name is : Céline Dion
+The Track name is : My Heart Will Go On - Love Theme from "Titanic"
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/5fcdcfe7ef20abd006bba666b4a7dff01dd5ec21?cid=null
+
+
+----Match Number---- : 2
+
+The Album Name is : The Essential Celine Dion
+The Artists Name is : Céline Dion
+The Track name is : My Heart Will Go On - Love Theme from "Titanic"
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/40eb3b1ececc4799a7d1063cca4c70f303c50bab?cid=null
+
+
+----Match Number---- : 3
+
+The Album Name is : My Love Essential Collection
+The Artists Name is : Céline Dion
+The Track name is : My Heart Will Go On - Love Theme from "Titanic"
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/b98064ff7876dcefd0eca2fe5a5a24351cc27d5d?cid=null
+
+
+----Match Number---- : 4
+
+The Album Name is : Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition
+The Artists Name is : James Horner
+The Artists Name is : Céline Dion
+The Track name is : My Heart Will Go On - Love Theme from "Titanic"
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/b182dbefef0b59e9bb38176a5016ad400c988a0b?cid=null
+
+
+----Match Number---- : 5
+
+The Album Name is : Score
+The Artists Name is : 2Cellos
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/c26a42b07680624108141596c654a0f4d5e35a66?cid=null
+
+
+----Match Number---- : 6
+
+The Album Name is : Lo Mejor De Guardianes Del Amor
+The Artists Name is : Guardianes Del Amor
+The Track name is : Mi Corazón Continuará (My Heart Will Go On)
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/59751d96ebed81373b38bced544834ec43a0ca13?cid=null
+
+
+----Match Number---- : 7
+
+The Album Name is : Are We Not Men? We Are Diva!
+The Artists Name is : Me First and the Gimme Gimmes
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/18766c93e85740d2f4053411195483ee62097c01?cid=null
+
+
+----Match Number---- : 8
+
+The Album Name is : Voices Of Angels
+The Artists Name is : Celtic Woman
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/04b0906f0397881b3dcdba3607e5e2b7d10694bb?cid=null
+
+
+----Match Number---- : 9
+
+The Album Name is : The Essentials
+The Artists Name is : Scott Bradlee's Postmodern Jukebox
+The Artists Name is : Mykal Kilgore
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d223a328b529c882d72716049e02bfd9495ea77a?cid=null
+
+
+----Match Number---- : 10
+
+The Album Name is : Swipe Right For Vintage
+The Artists Name is : Scott Bradlee's Postmodern Jukebox
+The Artists Name is : Mykal Kilgore
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/d223a328b529c882d72716049e02bfd9495ea77a?cid=null
+
+
+----Match Number---- : 11
+
+The Album Name is : Love Songs
+The Artists Name is : Céline Dion
+The Track name is : My Heart Will Go On - Love Theme from "Titanic"
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/cbf50c7a74d4450963c1d1141f3169447ec2dd0d?cid=null
+
+
+----Match Number---- : 12
+
+The Album Name is : The Essential Kenny G
+The Artists Name is : James Horner
+The Artists Name is : Will Jennings
+The Artists Name is : Kenny G
+The Artists Name is : William Ross
+The Track name is : My Heart Will Go On (Love Theme from "Titanic")
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/7ea43681096c920f4c410525ebf565b6c56bd268?cid=null
+
+
+----Match Number---- : 13
+
+The Album Name is : My Heart Will Go On
+The Artists Name is : George Davidson
+The Track name is : Mariage D'Amour
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/5ee7527534271cdea27e6cb59ab640852ff8730b?cid=null
+
+
+----Match Number---- : 14
+
+The Album Name is : Songs From The Silver Screen
+The Artists Name is : Jackie Evancho
+The Artists Name is : Joshua Bell
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/2a33c76ab1a152876d2bb71e5fca0c6ea78ec337?cid=null
+
+
+----Match Number---- : 15
+
+The Album Name is : All The Way... A Decade Of Song
+The Artists Name is : Céline Dion
+The Track name is : My Heart Will Go On - Love Theme from "Titanic"
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/cbf50c7a74d4450963c1d1141f3169447ec2dd0d?cid=null
+
+
+----Match Number---- : 16
+
+The Album Name is : My Heart Will Go On
+The Artists Name is : George Davidson
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/4bfb8e5634665b706535c243bc0d10f7e2f71c14?cid=null
+
+
+----Match Number---- : 17
+
+The Album Name is : Piano Cover
+The Artists Name is : Nazareno Aversa
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/469f2e386254fea9edade69a7de4525e82513314?cid=null
+
+
+----Match Number---- : 18
+
+The Album Name is : Believe
+The Artists Name is : Emile Pandolfi
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/b324947270d7259d8a5e5d6eba5d4d5deed1d3ce?cid=null
+
+
+----Match Number---- : 19
+
+The Album Name is : From The Screen To Your Stereo
+The Artists Name is : New Found Glory
+The Track name is : My Heart Will Go On
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/709cb8810dc6830ae1164b3660d0eeddb17869c8?cid=null
+
+
+----Match Number---- : 20
+
+The Album Name is : Legendary Movie Music
+The Artists Name is : Taylor Davis
+The Track name is : My Heart Will Go on (From "Titanic")
+The Spotify URL for this song is : https://p.scdn.co/mp3-preview/f1669ac3b6d559a5cd9e25dadc3c0d0e0b81f60f?cid=null
+
+
+my-tweets 
+
+-----Your last 20 tweets are being displayed-----
+
+Test Data 25
+Test Data 24
+Test Data 23
+Test Data 22
+Test Data 21
+Test Data 20
+Test Data 19
+Test Data 18
+Test Data 17
+Test Data 16
+Test Data 15
+Test Data 14
+Test Data 13
+Test Data 12
+Test Data 11
+Test Data 10
+Test Data 9
+Test Data 8
+Test Data 7
+Test Data 6
+
+
+

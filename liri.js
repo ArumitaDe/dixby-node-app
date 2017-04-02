@@ -104,7 +104,7 @@ function movie(secondInput)
             console.log('error:', error); // Print the error if one occurred 
             console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received 
             var data=JSON.parse(body);
-            //console.log(data);
+            console.log(data);
             /*console.log('\n--------Movie Information---------\n');
             console.log('Title of the movie:', data.Title);
             console.log('Year the movie came out:', data.Year);
@@ -115,7 +115,21 @@ function movie(secondInput)
             console.log('Actors in the movie:', data.Actors);
             console.log('Rotten Tomatoes Rating:', data.Ratings[1].Value);
             console.log('Rotten Tomatoes URL:', data.tomatoURL);*/
-            var output= '\n\r\n\r\n\r\n--------Movie Information---------\r\n'+
+            var output='';
+            if(data.Ratings[1]==undefined)
+            { output= '\n\r\n\r\n\r\n--------Movie Information---------\r\n'+
+                        '\r\n\r\nTitle of the movie : '+ data.Title+
+                        '\r\n\r\nYear the movie came out : '+ data.Year+
+                        '\r\n\r\nIMDB Rating of the movie : '+ data.Ratings[0].Value+
+                        '\r\n\r\nCountry where the movie was produced : '+ data.Country+
+                        '\r\n\r\nLanguage of the movie : '+ data.Language+
+                        '\r\n\r\nPlot of the movie : '+ data.Plot+
+                        '\r\n\r\nActors in the movie : '+ data.Actors+
+                        //'\r\n\r\nRotten Tomatoes Rating : '+ data.Ratings[1].Value+
+                        '\r\n\r\nRotten Tomatoes Rating : '+ data.tomatoRating+
+                        '\r\n\r\nRotten Tomatoes URL : '+ data.tomatoURL;}
+            else
+                { output= '\n\r\n\r\n\r\n--------Movie Information---------\r\n'+
                         '\r\n\r\nTitle of the movie : '+ data.Title+
                         '\r\n\r\nYear the movie came out : '+ data.Year+
                         '\r\n\r\nIMDB Rating of the movie : '+ data.Ratings[0].Value+
@@ -124,7 +138,9 @@ function movie(secondInput)
                         '\r\n\r\nPlot of the movie : '+ data.Plot+
                         '\r\n\r\nActors in the movie : '+ data.Actors+
                         '\r\n\r\nRotten Tomatoes Rating : '+ data.Ratings[1].Value+
-                        '\r\n\r\nRotten Tomatoes URL : '+ data.tomatoURL;
+                        '\r\n\r\nRotten Tomatoes Rating : '+ data.tomatoRating+
+                        '\r\n\r\nRotten Tomatoes URL : '+ data.tomatoURL;}
+            
             console.log(output);
             fileLog('movie-this',params,output);
                         
