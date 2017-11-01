@@ -26,9 +26,15 @@ node liri.js. [argument]
 
 argument = my-tweets
 
-or spotify-this-song
+or 
 
-or movie-this
+spotify-this-song
 
-or do-what-it-says.
+or 
+
+movie-this
+
+or 
+
+do-what-it-says.
 
