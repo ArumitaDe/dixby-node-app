@@ -22,4 +22,10 @@ Fork or download and then from project directory:
 
 npm install
 
-node liri.js.
+node liri.js. [argument]
+
+argument = my-tweets
+or spotify-this-song
+or movie-this
+or do-what-it-says.
+
