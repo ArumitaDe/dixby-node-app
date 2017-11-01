@@ -21,4 +21,5 @@ Required: Node.js
 Fork or download and then from project directory:
 
 npm install
+
 node liri.js.
