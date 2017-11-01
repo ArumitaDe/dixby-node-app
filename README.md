@@ -25,7 +25,10 @@ npm install
 node liri.js. [argument]
 
 argument = my-tweets
+
 or spotify-this-song
+
 or movie-this
+
 or do-what-it-says.
 
